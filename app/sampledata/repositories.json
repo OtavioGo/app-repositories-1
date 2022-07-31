@@ -2,122 +2,122 @@
   "data": [
     {
       "id": 81223601,
-      "name": "android-DocumentCentricApps",
+      "name": "android-CRUD-Firebase",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
       "stargazers_count": 0,
-      "language": "Java",
-      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
-      "description": "description"
+      "language": "Kotlin",
+      "html_url": "https://github.com/OtavioGo/android-CRUD-Firebase",
+      "description": "empty description"
     },
     {
       "id": 178429138,
-      "name": "android-guidelines",
+      "name": "android-ListaProdutos",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-guidelines",
-      "description": "Architecture and code guidelines we use at ribot when developing for Android",
+      "html_url": "https://github.com/OtavioGo/android-ListaProdutos",
+      "description": "empty description",
       "stargazers_count": 0,
-      "language": "guideline"
+      "language": "Kotlin"
     },
     {
       "id": 183915325,
-      "name": "android-testing",
+      "name": "android_Calculadora",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-testing",
-      "description": "A collection of samples demonstrating different frameworks and techniques for automated testing",
-      "stargazers_count": 1,
-      "language": "Java"
+      "html_url": "https://github.com/OtavioGo/android_Calculadora",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Kotlin"
     },
     {
       "id": 378749135,
-      "name": "app-repositories",
+      "name": "android-LembreteBeberAgua",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/app-repositories",
+      "html_url": "https://github.com/OtavioGo/android-LembreteBeberAgua",
       "description": "empty description",
-      "stargazers_count": 2,
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
       "id": 63367755,
-      "name": "avaliacao-ios",
+      "name": "Android-BusinessCard-DIO",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios",
-      "description": "empty description",
-      "stargazers_count": 3,
-      "language": "Objective-C"
+      "html_url": "https://github.com/OtavioGo/Android-BusinessCard-DIO",
+      "description": "App de cartão de visita para empresas.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
     },
     {
       "id": 63448974,
-      "name": "avaliacao-ios-manual",
+      "name": "FotosBootcamp-DIO",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios-manual",
-      "description": "empty description",
-      "stargazers_count": 7,
-      "language": "Objective-C"
+      "html_url": "https://github.com/OtavioGo/FotosBootcamp-DIO",
+      "description": "Ira mostrar no aplicativo a imagem que você selecionar na sua galeria.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
     },
     {
       "id": 263680765,
-      "name": "base-redcode",
+      "name": "ContatosBootcamp-DIO",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/base-redcode",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Empty"
+      "html_url": "https://github.com/OtavioGo/ContatosBootcamp-DIO",
+      "description": "Aplicativo para ver os contatos que você tem em seu telefone",
+      "stargazers_count": 0,
+      "language": "Kotlin"
     },
     {
       "id": 183948239,
-      "name": "BaseJetpack",
+      "name": "SoccerNews-DIO",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/BaseJetpack",
-      "description": "Examples with Jetpack components",
-      "stargazers_count": 2,
-      "language": "Kotlin"
+      "html_url": "https://github.com/OtavioGo/SoccerNews-DIO",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Java"
     },
     {
       "id": 265040807,
-      "name": "Chuck-Norris-Facts",
+      "name": "Simulador-DIO",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
-      "description": "An Android client for the Chuck Norris facts API",
-      "stargazers_count": 5,
-      "language": "Kotlin"
+      "html_url": "https://github.com/OtavioGo/Simulador-DIO",
+      "description": "Simulador de partidas DIO",
+      "stargazers_count": 0,
+      "language": "Kotlin and Java"
     },
     {
       "id": 369822554,
-      "name": "coin-converter",
+      "name": "android-weatherapp",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "OtavioGo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47680751?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/coin-converter",
+      "html_url": "https://github.com/OtavioGo/android-weatherapp",
       "description": "empty description",
-      "stargazers_count": 1,
+      "stargazers_count": 0,
       "language": "Kotlin"
     }
   ]
